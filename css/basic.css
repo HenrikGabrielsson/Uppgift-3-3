@@ -1,19 +1,17 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
 
-body
-{
-    background-color:#f0f0f0;
-}
-
 #container
 {
-    background-color:#f9faf4;
+    margin-top:10px;
+    background-color:#eae7d2;
     margin:auto;
-    width:710px;
+    width:660px;
+    overflow:auto;
 }
 
 #topbar
 {
+    background-color:#51473d;
     height:240px;
     width:660px;
 }
@@ -36,23 +34,25 @@ body
 
 #maincontent
 {
-    margin:auto;
-    background-color:#eae7d2;
     float:left;
     width:405px;
 }
+#maincontent img
+{
+    float:left;
+}
+
 #subcontent
 {
     float:right;
     width:255px;
-    background-color:#eae7d2;
 }
 
 #bottomcontent
 {
     float:left;
     width:660px;
-    background-color:#eae7d2;
+    margin-bottom:30px;
 }
 
 
