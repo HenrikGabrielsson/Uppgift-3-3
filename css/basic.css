@@ -95,6 +95,40 @@
     font-size:7pt;
     line-height:240%;
 }
+#subcontent h1
+{
+    color:#51473d;
+    font-family:"times new roman";
+    font-size:13pt;
+    font-weight:normal;
+}
+
+#subcontent h2
+{
+    color:#51473d;
+    font-family:"times new roman";
+    font-size:11pt;
+    font-weight:normal;
+}
+
+#subcontent ul
+{
+    list-style-type:none;
+    padding-left:0;
+}
+
+#subcontent a:link
+{
+    color:#51473d;
+    font-family:verdana;
+    font-size:10pt;
+}
+#subcontent a:visited
+{
+    color:#51473d;
+    font-family:verdana;
+    font-size:10pt;
+}
 
 #bottomcontent
 {
