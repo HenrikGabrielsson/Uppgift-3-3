@@ -52,20 +52,48 @@
 {
     background-color:#eae7d2;
     float:left;
-    width:360px;
-    height:365px;
+    width:340px;
+    height:385px;
+    padding:10px;
 }
+
+#maincontent h1
+{
+    color:#786e64;
+    font-family:"times new roman";
+    font-size:24pt;
+    font-weight:normal;
+}
+
+#maincontent p
+{
+    color:#786e64;
+    font-family:verdana;
+    font-size:10pt;
+    line-height:150%;
+}
+
 #maincontent img
 {
     float:left;
+    margin:0 5px 5px 0;
 }
 
 #subcontent
 {
     background-color:#eae7d2;
     float:right;
-    width:240px;
-    height:365px;
+    width:220px;
+    height:385px;
+    padding:10px;
+}
+
+#subcontent p
+{
+    color:#786e64;
+    font-family:verdana;
+    font-size:7pt;
+    line-height:240%;
 }
 
 #bottomcontent
