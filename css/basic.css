@@ -134,8 +134,17 @@
 {
     background-color:#eae7d2;
     float:left;
-    width:600px;
+    width:590px;
+    height: 30px;
+    padding-left:10px;
+    
+    color:#786e64;
+    font-family:"verdana";
+    font-style:italic;
+    font-size:7pt;
+    
 }
+
 
 
 
