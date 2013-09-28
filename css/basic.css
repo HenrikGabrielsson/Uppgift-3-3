@@ -76,7 +76,7 @@
     background-color:#eae7d2;
     float:left;
     width:340px;
-    height:385px;
+    height:340px;
     padding:10px;
 }
 
@@ -106,9 +106,10 @@
 {
     background-color:#eae7d2;
     float:right;
-    width:220px;
-    height:385px;
+    width:219px;
+    height:340px;
     padding:10px;
+    border-left:1px dashed #786e64;
 }
 
 #subcontent p
@@ -160,6 +161,7 @@
     width:590px;
     height: 30px;
     padding-left:10px;
+    padding-top:5px;
     
     color:#786e64;
     font-family:"verdana";
