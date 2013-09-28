@@ -14,7 +14,7 @@
     background-image:url('pics/coffey.jpg');
     background-repeat:no-repeat;
     background-position:center bottom;
-    height:215px;
+    height:220px;
     width:600px;
     
     color:#eae7d2;
@@ -28,7 +28,7 @@
 
 #menu
 {
-    height:40px;
+    height:30px;
     width:600px;
 }
 
@@ -46,6 +46,29 @@
 {
     display:block;
     float:left;
+    
+    margin:0 1px 0 1px;
+    padding:10px 20px 10px 20px;
+    background-color:#797066;
+    
+    font-family:verdana;
+    font-size:10pt;
+    color:#eae7d2;
+    text-decoration:none;
+}
+#menu li a:first-letter
+{
+    text-transform:uppercase;
+}
+#menu .active a
+{
+    background-color:#eae7d2;
+    color:#786e64;
+}
+
+#menu a:hover
+{
+    background-color:#9c9084;
 }
 
 #maincontent
